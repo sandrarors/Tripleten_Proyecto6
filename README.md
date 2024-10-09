@@ -8,4 +8,4 @@ Las tareas a realizar incluyen la creación y gestión de entornos virtuales de 
 Ulizaremos un conjunto de datos de anuncios de venta de coches realizando un análisis exploratorio de la información a través de un Histograma y un Diagrama de Dispersión.
 
 
-Link:
+Link: https://tripleten-proyecto6-claw.onrender.com 
